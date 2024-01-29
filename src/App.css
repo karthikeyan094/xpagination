@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+table{
+
+}
+
+.head{
+  padding: 8px;
+  text-align: left;
+  color: white;
+  font-weight: 500;
+  border:none;
+}
+
+td{
+  padding: 8px;
+  text-align: left;
+  font-weight: 500;
+}
+
+button{
+  background-color: #047d4c;
+  padding: 8px 15px;
+  margin: 20px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+}
